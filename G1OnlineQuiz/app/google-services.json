@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "638599683924",
+    "project_id": "g1onlinequiz",
+    "storage_bucket": "g1onlinequiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638599683924:android:2fe34bf28496b20eb5b2c1",
+        "android_client_info": {
+          "package_name": "com.example.g1onlinequiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638599683924-94u17hqcia54l8j1vnu7l8po1m9efspc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFN5jRAV8mUTNPJSUpHghnqswq5q5JIrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638599683924-94u17hqcia54l8j1vnu7l8po1m9efspc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
